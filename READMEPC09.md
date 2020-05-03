@@ -1,6 +1,6 @@
 #ATLS1300
 PC09 soundwave part 2
-This is the same as PC09 but this one has sound added to the background
+This is the same as PC08 but this one has sound added to the background
 
 
 Getting Started
